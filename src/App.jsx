@@ -5,6 +5,7 @@ const App = () => {
     <div>
       <h1> my heading</h1>
       <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odit, labore!</p>
+      <p> my first para graph</p>
     </div>
   )
 }
